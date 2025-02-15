@@ -64,7 +64,7 @@ const Footer = () => {
             </p>
             <ul className="flex flex-col justify-center items-start lg:items-start gap-4 tracking-wide">
               <li className="text-sm">+91 70697 95648</li>
-              <li className="text-sm">contact@mediimpact.com</li>
+              <li className="text-sm">contact@synviapharma.com</li>
             </ul>
           </div>
         </div>

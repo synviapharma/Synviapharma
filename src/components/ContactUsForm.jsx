@@ -93,7 +93,7 @@ const ContactUsForm = () => {
             <h2 className="text-2xl font-bold text-gray-700 mb-3">Contact</h2>
             <p className="text-gray-600">24/7 Support</p>
             <p className="text-gray-600">+91 70697 95648</p>
-            <p className="text-gray-600">contact@mediimpact.com</p>
+            <p className="text-gray-600">contact@synviapharma.com</p>
           </div>
 
           <div>

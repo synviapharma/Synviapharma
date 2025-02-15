@@ -61,7 +61,7 @@ const ExploreSection = () => {
   }, []);
 
   return (
-    <div className="relative overflow-hidden">
+    <div className="relative overflow-hidden ">
   <div
         className="parallax-bg absolute top-0 left-0 w-full h-full bg-cover bg-fixed bg-center"
         style={{ backgroundImage: "url('/images/multivitamin.jpg')" }}

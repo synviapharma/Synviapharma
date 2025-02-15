@@ -45,7 +45,7 @@ const OurProducts = () => {
           Our Products
         </h2>
         <p className="text-white text-lg mb-8">
-          MEDIIMPACT offers a diverse range of products, thoughtfully
+        SYNVIA offers a diverse range of products, thoughtfully
           categorized into distinct groups.
         </p>
 
