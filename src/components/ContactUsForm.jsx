@@ -101,23 +101,12 @@ const ContactUsForm = () => {
               Corporate Office-India
             </h2>
             <p className="text-gray-600">
-              203, Amrol Business Centre, <br />
-              Vrundavan Colony, Near Navrang <br />
-              School Six Roads, Navrangpura, <br />
-              Ahmedabad-380009. (GUJARAT-INDIA)
+             S. No. 15, M.G.Amin Complex <br />
+              Dehgam, Gandhinagar <br />
+              Gujarat <br />
             </p>
           </div>
 
-          <div>
-            <h2 className="text-2xl font-bold text-gray-700 mb-3">
-              Manufacturing Facility-India
-            </h2>
-            <p className="text-gray-600">
-              128/A, Phase 1 & 2, <br />
-              G.I.D.C., Naroda, <br />
-              Ahmedabad-382330. (GUJARAT-INDIA)
-            </p>
-          </div>
         </div>
         {/* Contact Form */}
         <div className="bg-white shadow-lg p-6 rounded-lg">
